@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "date": "2026-08-07",
-  "file": "update.bgygt",
-  "description": "İlk veri yedeklemesi"
+  "version": 12,
+  "securityCode": "7cf27678aa8908f51a7008a0d01b97b0451f4d929851722e1320f78c85741630",
+  "updateUrl": "https://github.com/MuratBglrYgtk/BaglarYegitekUpdate/raw/refs/heads/main/update.byg",
+  "releaseNotes": "Güvenli güncelleme sistemi entegre edildi. Yeni kurum listeleri eklendi."
 }
